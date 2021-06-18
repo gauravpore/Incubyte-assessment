@@ -43,5 +43,10 @@ pip install pandas
 Contributions are always welcomed.
 Make sure you read the [Contribution info](https://github.com/gauravpore/Weather-Forecaster-App/blob/main/contribution.md)
 
+## 🔹Screenshots:
+#### 🔸PyCharm console:
+![alt tag](https://user-images.githubusercontent.com/67472558/122553078-c53ef580-d054-11eb-97a6-1b756ebc5c6b.png)
 
+#### 🔸MySQL Workbench:
+![alt tag](https://user-images.githubusercontent.com/67472558/122553074-c3753200-d054-11eb-92b0-cc868750e5cd.png)
 
