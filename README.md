@@ -24,7 +24,7 @@ This repository contains implementation of given [assessment](https://github.com
 - For example: ```get_file("IND")``` generates [```IND.csv```](https://github.com/gauravpore/Incubyteassessment/blob/main/data/sample_data/IND.csv) to the specified local path. CLick [here](https://github.com/gauravpore/Incubyte-assessment/tree/main/data/sample_data) to see sample output files.
 
 
-####  📌*Note: This submission is sujected to further improvements*
+####  📌*Note: This submission is sujected to further improvements.*
   
   >🔸Installation Guide:
 - To install ```mysql.connector```:
